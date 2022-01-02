@@ -1,0 +1,54 @@
+#head {
+  background-color: burlywood;
+  padding-top: 10px;
+}
+#foot {
+  background-color: burlywood;
+  padding-top: 10px;
+}
+#Sam {
+  width: 19%;
+  height: 19%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-color: white;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+h1 {
+  font-family: Times, serif;
+  text-align: center;
+  color: orangered;
+}
+h2 {
+  font-style: italic;
+  color: orangered;
+  padding: 
+  font-size: 150%;
+  text-align: center;
+}
+ol {
+  font-family: Times, serif;
+  text-align: justify;
+  margin: 0 auto;
+   display: table;
+}
+ ul {
+   font-family: Times, serif;
+   text-align: justify;
+   margin: 0 auto;
+   display: table;
+ }
+ h3 {
+  font-style: italic;
+  color: lightsalmon;
+  padding: 
+  background-color: green;
+  font-size: 150%;
+  text-align: center;
+ }
